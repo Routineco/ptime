@@ -1,0 +1,8 @@
+(env
+ (dev
+  (flags
+   (:standard -w -6-27))))
+
+(library
+ (name ptime)
+ (modules ptime))

@@ -8,3 +8,4 @@ CLOCK.org
 *.byte
 *.install
 _b0
+_opam
